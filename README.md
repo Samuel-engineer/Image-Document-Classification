@@ -18,7 +18,8 @@ L'objectif principal est de **classer des images de documents financiers** en pl
 Ce projet peut être utile pour **l'automatisation du traitement des documents** dans des entreprises, des banques et des assurances.  
 
 ---
-
+## **Aperçu**
+![Aperçu de l'application](assets/capture_demo.png)
 ## 📊 **À propos du Dataset**  
 
 Le dataset contient des images de documents financiers, réparties en différentes catégories.  
