@@ -1,1 +1,1 @@
-# Image_Document_Classification
+# Image-Document-Classification
