@@ -24,7 +24,7 @@ Ce projet peut être utile pour **l'automatisation du traitement des documents**
 Le dataset contient des images de documents financiers, réparties en différentes catégories.  
 
 🔹 **Format des fichiers** : Images (`.png`)  
-🔹 **Classes** : Plusieurs types de documents financiers (16) 
+🔹 **Classes** : Plusieurs types de documents financiers (16)
 🔹 **Annotations** : Labels indiquant la catégorie du document  
 
 ---
